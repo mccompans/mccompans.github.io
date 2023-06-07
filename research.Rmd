@@ -1,0 +1,23 @@
+---
+title: "Research"
+description: |
+  Research interests: fertility, birth postponement, family change, assisted reproduction
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+# Work in progress
+
+# Publications
+
+# Other publications
+
+# Ph.D. Thesis 
+
+
+

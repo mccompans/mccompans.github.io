@@ -2,40 +2,28 @@
 title: "Marie-Caroline Compans"
 image: "frank.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
-  - label: GitHub
-    url: "https://github.com/"
   - label: Email
     url: "mailto:marie-caroline.compans@univie.ac.at"
 output:
   postcards::trestles
 site: distill::distill_website
 ---
- 
-## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+# Welcome!
 
-## Education
-
-**Massachusetts Institute of Technology** | Cambridge, MA
-
-Ph.D. in Computer Science | September 2009 - May 2014
-
-**The University of California, Berkeley** | Berkeley, CA
-
-B.S. in Computer Science | September 2005 - May 2009
+I am a postdoctoral research fellow at the Department of Demography of the University of Vienna - Wittgenstein Centre.\
+I mainly work on (late) fertility and assisted reproduction in Europe.
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**Postdoctoral research fellow**, University of Vienna - Wittgenstein Centre \| Oct. 2021 - Present
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+**Ph.D. Candidate**, French National Institute for Demographic Studies (Ined) \| Sept. 2017 - June 2021
+
+## Education
+
+**Ph.D. in Demography**, University Paris I Panthéon-Sorbonne / Ined \| Sept. 2017 - June 2021
+
+**Master in Quantitative Sociology and Demography** (M1&M2), University Paris-Saclay \| Sept. 2015 - June 2017
+
+Detailed CV here.
