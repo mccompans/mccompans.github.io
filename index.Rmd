@@ -1,18 +1,23 @@
 ---
 title: "Marie-Caroline Compans"
-image: "frank.jpg"
+image: "mc.jpg"
 links:
-  - label: Email
+  - label:  Email
     url: "mailto:marie-caroline.compans@univie.ac.at"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/marie-caroline-compans-565415123/?originalSubdomain=fr"
+  - label: Github 
+    url: "https://github.com/mccompans"
+  - label: Twitter 
+    url: "https://twitter.com/MCCompans" 
 output:
   postcards::trestles
 site: distill::distill_website
 ---
 
-# Welcome!
+#### Welcome!
 
-I am a postdoctoral research fellow at the Department of Demography of the University of Vienna - Wittgenstein Centre.\
-I mainly work on (late) fertility and assisted reproduction in Europe.
+I'm a postdoctoral research fellow at the Department of Demography of the [University of Vienna](https://ufind.univie.ac.at/en/person.html?id=115424)- [Wittgenstein Centre](http://www.wittgensteincentre.org/en/staff/member/compans.htm). I work mainly on (late) fertility and assisted reproduction in Europe, and I'm currently part of the [BIC.Late project](https://biclate.univie.ac.at/).
 
 ## Experience
 
@@ -26,4 +31,6 @@ I mainly work on (late) fertility and assisted reproduction in Europe.
 
 **Master in Quantitative Sociology and Demography** (M1&M2), University Paris-Saclay \| Sept. 2015 - June 2017
 
-Detailed CV here.
+Detailed CV [here](CV_Compans_MC.pdf).
+
+

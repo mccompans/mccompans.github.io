@@ -1,7 +1,7 @@
 ---
 title: "Research"
 description: |
-  Research interests: fertility, birth postponement, family change, assisted reproduction
+  Research topics: fertility, birth postponement, family change, assisted reproduction
 output: distill::distill_article
 ---
 
@@ -10,6 +10,8 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
+
+*This page is under construction. In the meanwhile, see detailed CV [here](CV_Compans_MC.pdf).*
 
 # Work in progress
 
