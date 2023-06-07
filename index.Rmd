@@ -1,6 +1,6 @@
 ---
 title: "Marie-Caroline Compans"
-image: "mc.jpg"
+image: "mc.JPG"
 links:
   - label:  Email
     url: "mailto:marie-caroline.compans@univie.ac.at"
