@@ -1,11 +1,14 @@
 name: "."
-title: "Home"
+title: "About"
 description: |
   Marie-Caroline Compans
 output_dir: "docs"
 theme: mcpersonalpage_theme.css
+base_url: https://mccompans.github.io/
+repository_url: https://github.com/mccompans/mccompans.github.io
+favicon: hedgehog.PNG
 navbar:
-  right:
+  left:
     - text: "Research"
       href: research.html
 output: distill::distill_article
