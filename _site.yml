@@ -1,7 +1,7 @@
 name: "."
-title: "Marie-Caroline Compans"
+title: "MC Compans"
 description: |
-  Marie-Caroline Compans
+  My personal webpage
 output_dir: "docs"
 theme: mcpersonalpage_theme.css
 base_url: https://mccompans.github.io/
