@@ -15,11 +15,11 @@ knitr::opts_chunk$set(echo = FALSE)
 # Work in progress
 
 -   **Compans M-C.**, Zagel H., 2023, Is legislation of medically
-    assisted reproduction related to attitudes in Europe? poster
+    assisted reproduction related to attitudes in Europe? [poster](PAA2023poster.pdf)
 
 -   Lazzari, E., **Compans M-C.** and Beaujouan, E., 2022, "Changing
     childbearing age norms in Europe in times of fertility
-    postponement", preprint
+    postponement", [preprint](https://ideas.repec.org/p/osf/socarx/xbheq.html)
 
 # Publications
 
@@ -30,41 +30,41 @@ knitr::opts_chunk$set(echo = FALSE)
 -   **Compans M-C.** and Beaujouan, E., 2022, "From Union Formation to
     First Birth: The Role of Age at First Cohabitation in the Transition
     to Motherhood and Fatherhood", *Population*, vol.77 (3), pp.411-436.
-    doi :10.3917/popu.2203.0439. link
+    doi :10.3917/popu.2203.0439. [link](https://www.cairn-int.info/journal-population-2022-3-page-411.htm)
 
 -   **Compans M-C.**, 2021 "D'un 'problème de santé publique' à un
     'phénomène de société'. Le traitement médiatique des maternités et
     des paternités tardives en France (2001--2019)", *Enfances,
-    Familles, Générations*, doi: 10.7202/1090938ar. link
+    Familles, Générations*, doi: 10.7202/1090938ar. [link](https://www.erudit.org/fr/revues/efg/2022-n39-efg07149/1090938ar/)
 
 -   **Compans M-C.**, 2021 "Late motherhood, late fatherhood and
     permanent childlessness in France: Trends by educational level and
     cohorts (1950-1970)", *Demographic Research*, vol.45 (10),
-    pp.329-344. <doi:10.4054/DemRes.2021.45.10>. link
+    pp.329-344. doi: 10.4054/DemRes.2021.45.10. [link](https://www.demographic-research.org/volumes/vol45/10/default.htm)
 
 # Other publications
 
 -   **Compans M-C.**, 2021, "Late mothers and late fathers have a first
-    birth with younger partners", N-IUSSP. link
+    birth with younger partners", N-IUSSP. [link](https://www.niussp.org/fertility-and-reproduction/late-mothers-and-late-fathers-have-a-first-birth-with-younger-partners/)
 
 -   Chatot, M., **Compans M-C.**, Quennehen M., Yadan, Z., 2021,
     "Introduction. Dossier : Instituer la famille. Entre parenté et
     parentalité", *Revue des politiques sociales et familiales*,
-    vol.139-140, pp.3-8. <doi:10.3917/rpsf.139.0003>. link
+    vol.139-140, pp.3-8. doi: 10.3917/rpsf.139.0003. [link](https://www.cairn.info/revue-des-politiques-sociales-et-familiales-2021-2-page-3.htm)
 
 -   **Compans M-C.**, 2021, "Is it too late to catch up? Comparing
     female and male fertility changes", PopDigests (*Population
-    Europe*). link
+    Europe*). [link](https://www.population-europe.eu/research/popdigests/it-too-late-catch)
 
 -   **Compans M-C.**, 2021, "Le déclin de la fertilité : une charge
     inégalement partagée entre hommes et femmes", *The Conversation*.
-    link
+    [link](https://theconversation.com/le-declin-de-la-fertilite-une-charge-inegalement-partagee-entre-hommes-et-femmes-163689)
 
 # PhD Thesis
 
 Pour qui sonne l'heure ? : devenir père ou mère tardivement à l'épreuve
 des normes et de l'âge [*For Whom the Clock Tolls? Becoming a late
-father or a late mother facing norms and age*]. link.
+father or a late mother facing norms and age*]. [link](https://www.theses.fr/2021PA01H077)
 
 Supervisors : Elise de La Rochebrochard (Ined, Inserm) and Arnaud
 Régnier-Loilier (Ined)
