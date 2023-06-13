@@ -18,4 +18,5 @@ navbar:
   left:
     - text: "Research"
       href: research.html
+      
 output: distill::distill_article
