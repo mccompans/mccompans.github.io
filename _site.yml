@@ -1,5 +1,5 @@
 name: "."
-title: "About"
+title: "Marie-Caroline Compans"
 description: |
   Marie-Caroline Compans
 output_dir: "docs"
@@ -7,7 +7,14 @@ theme: mcpersonalpage_theme.css
 base_url: https://mccompans.github.io/
 repository_url: https://github.com/mccompans/mccompans.github.io
 favicon: hedgehog.PNG
+google_analytics: "G-M3L4WL4K5Q"
+creative_commons: CC BY
+
 navbar:
+  logo:
+    image: hedgehog.PNG
+    # image: 
+    href: https://mccompans.github.io/
   left:
     - text: "Research"
       href: research.html
