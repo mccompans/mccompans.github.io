@@ -44,6 +44,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Other publications
 
+- Beaujouan, E., **Compans M-C.** and Gutmorgeth L., 2023, ”Finding a viable path to “ageing” fertility in Europe”,
+Policy Insights, *Population Europe*. [link](https://population-europe.eu/research/policy-insights/finding-viable-path-ageing-fertility-europe)
+
 -   **Compans M-C.**, 2021, "Late mothers and late fathers have a first
     birth with younger partners", N-IUSSP. [link](https://www.niussp.org/fertility-and-reproduction/late-mothers-and-late-fathers-have-a-first-birth-with-younger-partners/)
 
