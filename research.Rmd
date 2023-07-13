@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = FALSE)
 # Work in progress
 
 -   **Compans M-C.**, Zagel H., 2023, Is legislation of medically
-    assisted reproduction related to attitudes in Europe? [poster](PAA2023poster.pdf)
+    assisted reproduction related to attitudes in Europe? 
 
 -   Lazzari, E., **Compans M-C.** and Beaujouan, E., 2022, "Changing
     childbearing age norms in Europe in times of fertility
@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 -   **Compans M-C.**, Beaujouan, E. and Suero C., 2023, "Transitions to
     second birth and birth intervals in France and Spain: time squeeze
-    or norms?", *Comparative Population Studies* (in press)
+    or social norms?", *Comparative Population Studies*, vol.48, pp.307-338. doi: 10.12765/CPoS-202. [link](https://www.comparativepopulationstudies.de/index.php/CPoS/article/view/524/382)
 
 -   **Compans M-C.** and Beaujouan, E., 2022, "From Union Formation to
     First Birth: The Role of Age at First Cohabitation in the Transition
