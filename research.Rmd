@@ -14,58 +14,64 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Work in progress
 
--   **Compans M-C.**, Zagel H., 2023, Is legislation of medically
-    assisted reproduction related to attitudes in Europe? 
+-   Setz, I., **Compans, M-C.**,Beaujouan, E., 2023, Spatial and temporal variation of late fertility across European regions
 
--   Lazzari, E., **Compans M-C.** and Beaujouan, E., 2022, "Changing
+-   Suero, C., **Compans, M-C.**, Beaujouan, E., 2023, Delayed transitions to adulthood and the use of assisted reproduction by education in Spain 
+
+-   **Compans, M-C.**, Zagel H., 2023, Is legislation of medically
+    assisted reproduction related to attitudes in Europe? [presentation](ECSR_2023.pdf)
+
+-   Lazzari, E., **Compans, M-C.** and Beaujouan, E., 2022, "Changing
     childbearing age norms in Europe in times of fertility
     postponement", [preprint](https://ideas.repec.org/p/osf/socarx/xbheq.html)
 
 # Publications
 
--   **Compans M-C.**, Beaujouan, E. and Suero C., 2023, "Transitions to
+-   **Compans, M-C.**, Beaujouan, E. and Suero C., 2023, "Transitions to
     second birth and birth intervals in France and Spain: time squeeze
     or social norms?", *Comparative Population Studies*, vol.48, pp.307-338. doi: 10.12765/CPoS-202. [link](https://www.comparativepopulationstudies.de/index.php/CPoS/article/view/524/382)
 
--   **Compans M-C.** and Beaujouan, E., 2022, "From Union Formation to
+-   **Compans, M-C.** and Beaujouan, E., 2022, "From Union Formation to
     First Birth: The Role of Age at First Cohabitation in the Transition
     to Motherhood and Fatherhood", *Population*, vol.77 (3), pp.411-436.
     doi :10.3917/popu.2203.0439. [link](https://www.cairn-int.info/journal-population-2022-3-page-411.htm)
 
--   **Compans M-C.**, 2021 "D'un 'problème de santé publique' à un
+-   **Compans, M-C.**, 2021 "D'un 'problème de santé publique' à un
     'phénomène de société'. Le traitement médiatique des maternités et
     des paternités tardives en France (2001--2019)", *Enfances,
     Familles, Générations*, doi: 10.7202/1090938ar. [link](https://www.erudit.org/fr/revues/efg/2022-n39-efg07149/1090938ar/)
 
--   **Compans M-C.**, 2021 "Late motherhood, late fatherhood and
+-   **Compans, M-C.**, 2021 "Late motherhood, late fatherhood and
     permanent childlessness in France: Trends by educational level and
     cohorts (1950-1970)", *Demographic Research*, vol.45 (10),
     pp.329-344. doi: 10.4054/DemRes.2021.45.10. [link](https://www.demographic-research.org/volumes/vol45/10/default.htm)
+    
+    
 
 # Other publications
 
-- Beaujouan, E., **Compans M-C.** and Gutmorgeth L., 2023, ”Finding a viable path to “ageing” fertility in Europe”,
+- Beaujouan, E., **Compans, M-C.** and Gutmorgeth L., 2023, ”Finding a viable path to “ageing” fertility in Europe”,
 Policy Insights, *Population Europe*. [link](https://population-europe.eu/research/policy-insights/finding-viable-path-ageing-fertility-europe)
 
--   **Compans M-C.**, 2021, "Late mothers and late fathers have a first
+-   **Compans, M-C.**, 2021, "Late mothers and late fathers have a first
     birth with younger partners", N-IUSSP. [link](https://www.niussp.org/fertility-and-reproduction/late-mothers-and-late-fathers-have-a-first-birth-with-younger-partners/)
 
--   Chatot, M., **Compans M-C.**, Quennehen M., Yadan, Z., 2021,
+-   Chatot, M., **Compans, M-C.**, Quennehen M., Yadan, Z., 2021,
     "Introduction. Dossier : Instituer la famille. Entre parenté et
     parentalité", *Revue des politiques sociales et familiales*,
     vol.139-140, pp.3-8. doi: 10.3917/rpsf.139.0003. [link](https://www.cairn.info/revue-des-politiques-sociales-et-familiales-2021-2-page-3.htm)
 
--   **Compans M-C.**, 2021, "Is it too late to catch up? Comparing
+-   **Compans, M-C.**, 2021, "Is it too late to catch up? Comparing
     female and male fertility changes", PopDigests (*Population
     Europe*). [link](https://www.population-europe.eu/research/popdigests/it-too-late-catch)
 
--   **Compans M-C.**, 2021, "Le déclin de la fertilité : une charge
+-   **Compans, M-C.**, 2021, "Le déclin de la fertilité : une charge
     inégalement partagée entre hommes et femmes", *The Conversation*.
     [link](https://theconversation.com/le-declin-de-la-fertilite-une-charge-inegalement-partagee-entre-hommes-et-femmes-163689)
 
 # PhD Thesis
 
-Pour qui sonne l'heure ? : devenir père ou mère tardivement à l'épreuve
+Pour qui sonne l'heure ? Devenir père ou mère tardivement à l'épreuve
 des normes et de l'âge [*For Whom the Clock Tolls? Becoming a late
 father or a late mother facing norms and age*]. [link](https://www.theses.fr/2021PA01H077)
 
