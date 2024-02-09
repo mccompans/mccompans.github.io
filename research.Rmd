@@ -14,6 +14,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Work in progress
 
+-   **Compans, M-C.**, Are Age Limits for Assisted Reproduction Adapting
+    to Late Fertility Trends? [short
+    abstract](https://epc2024.eaps.nl/abstracts/240440). Work supported
+    by [Fondation pour les Sciences
+    Sociales](https://fondation-sciences-sociales.org/marie-caroline-compans/)
+
 -   Setz, I., **Compans, M-C.**,Beaujouan, E., 2023, Spatial and
     temporal variation of late fertility across European regions
 
@@ -25,13 +31,13 @@ knitr::opts_chunk$set(echo = FALSE)
     assisted reproduction related to attitudes in Europe?
     [presentation](ECSR_2023.pdf)
 
--   Lazzari, E., **Compans, M-C.** and Beaujouan, E., 2022, "Changing
-    childbearing age norms in Europe in times of fertility
-    postponement",
-    [preprint](https://ideas.repec.org/p/osf/socarx/xbheq.html)
-
 # Publications
 
+-   Lazzari, E., **Compans, M-C**. and Beaujouan, E., 2022, "Change in
+    the perceived reproductive age window and delayed fertility in
+    Europe", *Population Studies*, in press.
+    [preprint](https://ideas.repec.org/p/osf/socarx/xbheq.html)
+    
 -   **Compans, M-C.**, Beaujouan, E. and Suero C., 2023, "Transitions to
     second birth and birth intervals in France and Spain: time squeeze
     or social norms?", *Comparative Population Studies*, vol.48,
@@ -59,7 +65,7 @@ knitr::opts_chunk$set(echo = FALSE)
 # Other publications
 
 -   Beaujouan, E., **Compans, M-C.** and Gutmorgeth L., 2023, "Finding a
-    viable path to "ageing" fertility in Europe", Policy Insights,
+    viable path to"ageing" fertility in Europe", Policy Insights,
     *Population Europe*.
     [link](https://population-europe.eu/research/policy-insights/finding-viable-path-ageing-fertility-europe)
 
