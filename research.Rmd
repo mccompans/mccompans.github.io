@@ -31,7 +31,7 @@ knitr::opts_chunk$set(echo = FALSE)
     assisted reproduction related to attitudes in Europe?
     [presentation](ECSR_2023.pdf)
 
-# Publications
+# Peer-reviewed publications
 
 -   Lazzari, E., **Compans, M-C**. and Beaujouan, E., 2022, "Change in
     the perceived reproductive age window and delayed fertility in
@@ -64,6 +64,19 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Other publications
 
+-   **Compans, M-C.** and Beaujouan, E., 2023, "Where to couples meet?",
+    in *Families in Austria Partnerships, fertility intentions and
+    economic situation in challenging times*, Neuwirth, N.,
+    Buber-Ennser, I., Fux, B. (eds.), p.10.
+    [link](https://www.ggp-austria.at/fileadmin/user_upload/k_ggp_austria/GGPat_Families_in_Austria_2023.pdf)
+
+-   Lazzari, E. and **Compans, M-C.**, 2023, "Assisted reproduction:
+    prevalence among men and women", in *Families in Austria
+    Partnerships, fertility intentions and economic situation in
+    challenging times*, Neuwirth, N., Buber-Ennser, I., Fux, B., Fux
+    (eds.),
+    p.39.[link](https://www.ggp-austria.at/fileadmin/user_upload/k_ggp_austria/GGPat_Families_in_Austria_2023.pdf)
+    
 -   Beaujouan, E., **Compans, M-C.** and Gutmorgeth L., 2023, "Finding a
     viable path to"ageing" fertility in Europe", Policy Insights,
     *Population Europe*.
