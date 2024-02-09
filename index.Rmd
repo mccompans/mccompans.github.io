@@ -17,7 +17,7 @@ site: distill::distill_website
 
 #### Welcome!
 
-I'm a postdoctoral research fellow at the Department of Demography of the [University of Vienna](https://ufind.univie.ac.at/en/person.html?id=115424)- [Wittgenstein Centre](http://www.wittgensteincentre.org/en/staff/member/compans.htm). I work mainly on (late) fertility and assisted reproduction in Europe, and I'm currently part of the [BIC.Late project](https://biclate.univie.ac.at/).
+I'm a postdoctoral research fellow at the Department of Demography of the [University of Vienna](https://ufind.univie.ac.at/en/person.html?id=115424)- [Wittgenstein Centre](http://www.wittgensteincentre.org/en/staff/member/compans.htm). I work mainly on (late) fertility and assisted reproduction, and I'm currently part of the [BIC.Late project](https://biclate.univie.ac.at/).
 
 ## Experience
 
