@@ -14,14 +14,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Work in progress
 
--   **Compans, M-C.**, Are Age Limits for Assisted Reproduction Adapting
-    to Late Fertility Trends? [short
+
+ -   **Compans, M-C.**, 2024, Are Age Limits for Assisted Reproduction Adapting to Late Fertility Trends? [short
     abstract](https://epc2024.eaps.nl/abstracts/240440). Work supported
     by [Fondation pour les Sciences
     Sociales](https://fondation-sciences-sociales.org/marie-caroline-compans/)
 
--   Setz, I., **Compans, M-C.**,Beaujouan, E., 2023, Spatial and
-    temporal variation of late fertility across European regions
+-   Setz, I., **Compans, M-C.**,Beaujouan, E., 2023, Spatial and temporal variation of late fertility across European regions. [short abstract](https://epc2024.eaps.nl/abstracts/241306)
 
 -   Suero, C., **Compans, M-C.**, Beaujouan, E., 2023, Delayed
     transitions to adulthood and the use of assisted reproduction by
@@ -33,10 +32,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Peer-reviewed publications
 
--   Lazzari, E., **Compans, M-C**. and Beaujouan, E., 2022, "Change in
+-   Lazzari, E., **Compans, M-C**. and Beaujouan, E., 2024, "Change in
     the perceived reproductive age window and delayed fertility in
-    Europe", *Population Studies*, in press.
-    [preprint](https://ideas.repec.org/p/osf/socarx/xbheq.html)
+    Europe", *Population Studies*.
+    [link](https://www.tandfonline.com/doi/epdf/10.1080/00324728.2023.2298678?needAccess=true)
     
 -   **Compans, M-C.**, Beaujouan, E. and Suero C., 2023, "Transitions to
     second birth and birth intervals in France and Spain: time squeeze
@@ -64,7 +63,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Other publications
 
--   **Compans, M-C.** and Beaujouan, E., 2023, "Where to couples meet?",
+-   **Compans, M-C.** and Beaujouan, E., 2023, "Where do couples meet?",
     in *Families in Austria Partnerships, fertility intentions and
     economic situation in challenging times*, Neuwirth, N.,
     Buber-Ennser, I., Fux, B. (eds.), p.10.
@@ -75,7 +74,7 @@ knitr::opts_chunk$set(echo = FALSE)
     Partnerships, fertility intentions and economic situation in
     challenging times*, Neuwirth, N., Buber-Ennser, I., Fux, B., Fux
     (eds.),
-    p.39.[link](https://www.ggp-austria.at/fileadmin/user_upload/k_ggp_austria/GGPat_Families_in_Austria_2023.pdf)
+    p.39. [link](https://www.ggp-austria.at/fileadmin/user_upload/k_ggp_austria/GGPat_Families_in_Austria_2023.pdf)
     
 -   Beaujouan, E., **Compans, M-C.** and Gutmorgeth L., 2023, "Finding a
     viable path to"ageing" fertility in Europe", Policy Insights,
