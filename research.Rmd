@@ -22,6 +22,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 -   Setz, I., **Compans, M-C.**,Beaujouan, E., 2023, Spatial and temporal variation of late fertility across European regions. [short abstract](https://epc2024.eaps.nl/abstracts/241306)
 
+-   **Compans, M-C.**, Beaujouan, E., Lazzari, E., 2023, Perceptions of Medically Assisted Reproduction and Women’s Fertility Choices
+
 -   Suero, C., **Compans, M-C.**, Beaujouan, E., 2023, Delayed
     transitions to adulthood and the use of assisted reproduction by
     education in Spain
