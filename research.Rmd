@@ -51,13 +51,13 @@ knitr::opts_chunk$set(echo = FALSE)
     doi :10.3917/popu.2203.0439.
     [link](https://www.cairn-int.info/journal-population-2022-3-page-411.htm)
 
--   **Compans, M-C.**, 2021 "D'un 'problème de santé publique' à un
+-   **Compans, M-C.**, 2021, "D'un 'problème de santé publique' à un
     'phénomène de société'. Le traitement médiatique des maternités et
     des paternités tardives en France (2001--2019)", *Enfances,
     Familles, Générations*, doi: 10.7202/1090938ar.
     [link](https://www.erudit.org/fr/revues/efg/2022-n39-efg07149/1090938ar/)
 
--   **Compans, M-C.**, 2021 "Late motherhood, late fatherhood and
+-   **Compans, M-C.**, 2021, "Late motherhood, late fatherhood and
     permanent childlessness in France: Trends by educational level and
     cohorts (1950-1970)", *Demographic Research*, vol.45 (10),
     pp.329-344. doi: 10.4054/DemRes.2021.45.10.
