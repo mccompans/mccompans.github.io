@@ -36,7 +36,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 -   Lazzari, E., **Compans, M-C**. and Beaujouan, E., 2024, "Change in
     the perceived reproductive age window and delayed fertility in
-    Europe", *Population Studies*.
+    Europe", *Population Studies*. doi: 0.1080/00324728.2023.2298678.
     [link](https://www.tandfonline.com/doi/epdf/10.1080/00324728.2023.2298678?needAccess=true)
     
 -   **Compans, M-C.**, Beaujouan, E. and Suero C., 2023, "Transitions to
