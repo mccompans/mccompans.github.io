@@ -17,11 +17,13 @@ site: distill::distill_website
 
 #### Welcome!
 
-I'm a postdoctoral research fellow at the Department of Demography of the [University of Vienna](https://ufind.univie.ac.at/en/person.html?id=115424)- [Wittgenstein Centre](http://www.wittgensteincentre.org/en/staff/member/compans.htm). I work mainly on (late) fertility and assisted reproduction, and I'm currently part of the [BIC.Late project](https://biclate.univie.ac.at/).
+I'm a postdoctoral researcher at the French National Institute for Demographic Studies (Ined) within the [SOCMISC project](https://soc-misc.site.ined.fr/). I work on miscarriages, assisted reproduction, infertility and (late) fertility. I am also associated with the Department of Demography of the University of Vienna, where I participated in the [BIC.Late project](https://biclate.univie.ac.at/).
 
 ## Experience
 
-**Postdoctoral research fellow**, University of Vienna - Wittgenstein Centre \| Oct. 2021 - Present
+**Postdoctoral research fellow**, French National Institute for Demographic Studies (Ined) \| July. 2024 - present
+
+**Postdoctoral research fellow**, University of Vienna - Wittgenstein Centre \| June 2021 - Sept. 2024
 
 **Ph.D. Candidate**, French National Institute for Demographic Studies (Ined) \| Sept. 2017 - June 2021
 
