@@ -14,15 +14,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Work in progress
 
-
- -   **Compans, M-C.**, 2024, Are Age Limits for Assisted Reproduction Adapting to Late Fertility Trends? [short
-    abstract](https://epc2024.eaps.nl/abstracts/240440). Work supported
-    by [Fondation pour les Sciences
-    Sociales](https://fondation-sciences-sociales.org/marie-caroline-compans/)
-
 -   Setz, I., **Compans, M-C.**,Beaujouan, E., 2023, Spatial and temporal variation of late fertility across European regions. [short abstract](https://epc2024.eaps.nl/abstracts/241306)
 
--   **Compans, M-C.**, Beaujouan, E., Lazzari, E., 2023, Perceptions of Medically Assisted Reproduction and Women’s Fertility Choices
+-   **Compans, M-C.**, Lazzari, E. and Beaujouan, E., 2023, Perceptions of Medically Assisted Reproduction and Women’s Fertility Choices
 
 -   Suero, C., **Compans, M-C.**, Beaujouan, E., 2023, Delayed
     transitions to adulthood and the use of assisted reproduction by
@@ -30,7 +24,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Peer-reviewed publications
 
-- **Compans, M-C.**, "Alignment, anticipation, adaptation or lagging behind? Age-based regulations in assisted reproduction and late fertility", *Population and Development Review* (accepted). 
+- **Compans, M-C.**, 2024, "Alignment, anticipation, adaptation or lagging behind? Age-based regulations in assisted reproduction and late fertility", *Population and Development Review* (accepted). Work supported
+    by [Fondation pour les Sciences
+    Sociales](https://fondation-sciences-sociales.org/marie-caroline-compans/)
 
 -   **Compans, M-C.** and Zagel H., 2024, "Medically assisted reproduction and non-normative family forms: legislation and public opinion in Europe". 
 *European Societies* (accepted). [link to the preprint](https://osf.io/preprints/socarxiv/gmnyx) 

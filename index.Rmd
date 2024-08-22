@@ -19,7 +19,7 @@ site: distill::distill_website
 
 I'm a postdoctoral researcher at the French National Institute for Demographic Studies (Ined) within the [SOCMISC project](https://soc-misc.site.ined.fr/). I work on miscarriages, assisted reproduction, infertility and (late) fertility. I am also associated with the Department of Demography of the University of Vienna, where I participated in the [BIC.Late project](https://biclate.univie.ac.at/).
 
-## Experience
+## Research experience
 
 **Postdoctoral researcher**, French National Institute for Demographic Studies (Ined) \| July. 2024 - present
 
