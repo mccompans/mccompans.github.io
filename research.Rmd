@@ -28,11 +28,12 @@ knitr::opts_chunk$set(echo = FALSE)
     transitions to adulthood and the use of assisted reproduction by
     education in Spain
 
--   **Compans, M-C.**, Zagel H., 2023, Is legislation of medically
-    assisted reproduction related to attitudes in Europe?
-    [presentation](ECSR_2023.pdf)
-
 # Peer-reviewed publications
+
+- **Compans, M-C.**, "Alignment, anticipation, adaptation or lagging behind? Age-based regulations in assisted reproduction and late fertility", *Population and Development Review* (accepted). 
+
+-   **Compans, M-C.** and Zagel H., 2024, "Medically assisted reproduction and non-normative family forms: legislation and public opinion in Europe". 
+*European Societies* (accepted). [link to the preprint](https://osf.io/preprints/socarxiv/gmnyx) 
 
 -   Lazzari, E., **Compans, M-C**. and Beaujouan, E., 2024, "Change in
     the perceived reproductive age window and delayed fertility in
