@@ -24,9 +24,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Peer-reviewed publications
 
-- **Compans, M-C.**, 2024, "Alignment, anticipation, adaptation or lagging behind? Age-based regulations in assisted reproduction and late fertility", *Population and Development Review* (accepted). Work supported
-    by [Fondation pour les Sciences
-    Sociales](https://fondation-sciences-sociales.org/marie-caroline-compans/)
+- **Compans, M-C.**, 2024, "Alignment, anticipation, adaptation or lagging behind? Age-based regulations in assisted reproduction and late fertility", *Population and Development Review*, doi: https://doi.org/10.1111/padr.12658
 
 -   **Compans, M-C.** and Zagel H., 2024, "Medically assisted reproduction and non-normative family forms: legislation and public opinion in Europe". 
 *European Societies* (accepted). [link to the preprint](https://osf.io/preprints/socarxiv/gmnyx) 
