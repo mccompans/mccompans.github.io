@@ -8,8 +8,6 @@ links:
     url: "https://www.linkedin.com/in/marie-caroline-compans-565415123/?originalSubdomain=fr"
   - label: Github 
     url: "https://github.com/mccompans"
-  - label: Twitter 
-    url: "https://twitter.com/MCCompans" 
 output:
   postcards::trestles
 site: distill::distill_website
