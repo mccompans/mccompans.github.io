@@ -14,51 +14,51 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Work in progress
 
-- **Compans M-C.** and Heini Väisänen, Social patterns of miscarriage reporting and risk: Insights from survey data in France [preprint](https://osf.io/preprints/socarxiv/7psr6_v1)
+- **Compans MC.** and Väisänen, H., Social patterns of miscarriage reporting and risk: Insights from survey data in France [preprint](https://osf.io/preprints/socarxiv/7psr6_v1)
 
-- **Compans, M-C.**, Beaujouan, E., Trimarchi, A., The role of the partner age gap on first births by age at union
+- **Compans, MC.**, Beaujouan, E., Trimarchi, A., The role of the partner age gap on first births by age at union
 formation (cross-regional perspective) 
 
--   Setz, I., **Compans, M-C.**, Beaujouan, E., 2023, Spatial and temporal variation of late fertility across European regions. [short abstract](https://epc2024.eaps.nl/abstracts/241306)
+-   Setz, I., **Compans, MC.**, Beaujouan, E., 2023, Spatial and temporal variation of late fertility across European regions. [short abstract](https://epc2024.eaps.nl/abstracts/241306)
 
--   **Compans, M-C.**, Lazzari, E. and Beaujouan, E., 2023, Perceptions of Medically Assisted Reproduction and Women’s Fertility Choices
+-   **Compans, MC.**, Lazzari, E. and Beaujouan, E., 2023, Perceptions of Medically Assisted Reproduction and Women’s Fertility Choices
 
--   Suero, C., **Compans, M-C.**, Beaujouan, E., 2023, Delayed transitions to adulthood and the use of assisted reproduction by
+-   Suero, C., **Compans, MC.**, Beaujouan, E., 2023, Delayed transitions to adulthood and the use of assisted reproduction by
     education in Spain
 
 
 
 # Peer-reviewed publications
 
-- **Compans, M-C.**, 2024, "Alignment, anticipation, adaptation or lagging behind? Age-based regulations in assisted reproduction and late fertility", *Population and Development Review*, doi: https://doi.org/10.1111/padr.12658
+- **Compans, MC.**, 2024, "Alignment, anticipation, adaptation or lagging behind? Age-based regulations in assisted reproduction and late fertility", *Population and Development Review*, doi: https://doi.org/10.1111/padr.12658
 
--   **Compans, M-C.** and Zagel H., 2024, "Medically assisted reproduction and non-normative family forms: legislation and public opinion in Europe". 
+-   **Compans, MC.** and Zagel H., 2024, "Medically assisted reproduction and non-normative family forms: legislation and public opinion in Europe". 
 *European Societies* (accepted). [link to the preprint](https://osf.io/preprints/socarxiv/gmnyx) 
 
--   Lazzari, E., **Compans, M-C**. and Beaujouan, E., 2024, "Change in
+-   Lazzari, E., **Compans, MC**. and Beaujouan, E., 2024, "Change in
     the perceived reproductive age window and delayed fertility in
     Europe", *Population Studies*. doi: 0.1080/00324728.2023.2298678.
     [link](https://www.tandfonline.com/doi/epdf/10.1080/00324728.2023.2298678?needAccess=true)
     
--   **Compans, M-C.**, Beaujouan, E. and Suero C., 2023, "Transitions to
+-   **Compans, MC.**, Beaujouan, E. and Suero C., 2023, "Transitions to
     second birth and birth intervals in France and Spain: time squeeze
     or social norms?", *Comparative Population Studies*, vol.48,
     pp.307-338. doi: 10.12765/CPoS-202.
     [link](https://www.comparativepopulationstudies.de/index.php/CPoS/article/view/524/382)
 
--   **Compans, M-C.** and Beaujouan, E., 2022, "From Union Formation to
+-   **Compans, MC.** and Beaujouan, E., 2022, "From Union Formation to
     First Birth: The Role of Age at First Cohabitation in the Transition
     to Motherhood and Fatherhood", *Population*, vol.77 (3), pp.411-436.
     doi :10.3917/popu.2203.0439.
     [link](https://www.cairn-int.info/journal-population-2022-3-page-411.htm)
 
--   **Compans, M-C.**, 2021, "D'un 'problème de santé publique' à un
+-   **Compans, MC.**, 2021, "D'un 'problème de santé publique' à un
     'phénomène de société'. Le traitement médiatique des maternités et
     des paternités tardives en France (2001--2019)", *Enfances,
     Familles, Générations*, doi: 10.7202/1090938ar.
     [link](https://www.erudit.org/fr/revues/efg/2022-n39-efg07149/1090938ar/)
 
--   **Compans, M-C.**, 2021, "Late motherhood, late fatherhood and
+-   **Compans, MC.**, 2021, "Late motherhood, late fatherhood and
     permanent childlessness in France: Trends by educational level and
     cohorts (1950-1970)", *Demographic Research*, vol.45 (10),
     pp.329-344. doi: 10.4054/DemRes.2021.45.10.
@@ -66,40 +66,40 @@ formation (cross-regional perspective)
 
 # Other publications
 
--   **Compans, M-C.** and Beaujouan, E., 2023, "Where do couples meet?",
+-   **Compans, MC.** and Beaujouan, E., 2023, "Where do couples meet?",
     in *Families in Austria Partnerships, fertility intentions and
     economic situation in challenging times*, Neuwirth, N.,
     Buber-Ennser, I., Fux, B. (eds.), p.10.
     [link](https://www.ggp-austria.at/fileadmin/user_upload/k_ggp_austria/GGPat_Families_in_Austria_2023.pdf)
 
--   Lazzari, E. and **Compans, M-C.**, 2023, "Assisted reproduction:
+-   Lazzari, E. and **Compans, MC.**, 2023, "Assisted reproduction:
     prevalence among men and women", in *Families in Austria
     Partnerships, fertility intentions and economic situation in
     challenging times*, Neuwirth, N., Buber-Ennser, I., Fux, B., Fux
     (eds.),
     p.39. [link](https://www.ggp-austria.at/fileadmin/user_upload/k_ggp_austria/GGPat_Families_in_Austria_2023.pdf)
     
--   Beaujouan, E., **Compans, M-C.** and Gutmorgeth L., 2023, "Finding a
+-   Beaujouan, E., **Compans, MC.** and Gutmorgeth L., 2023, "Finding a
     viable path to"ageing" fertility in Europe", Policy Insights,
     *Population Europe*.
     [link](https://population-europe.eu/research/policy-insights/finding-viable-path-ageing-fertility-europe)
 
--   **Compans, M-C.**, 2021, "Late mothers and late fathers have a first
+-   **Compans, MC.**, 2021, "Late mothers and late fathers have a first
     birth with younger partners", N-IUSSP.
     [link](https://www.niussp.org/fertility-and-reproduction/late-mothers-and-late-fathers-have-a-first-birth-with-younger-partners/)
 
--   Chatot, M., **Compans, M-C.**, Quennehen M., Yadan, Z., 2021,
+-   Chatot, M., **Compans, MC.**, Quennehen M., Yadan, Z., 2021,
     "Introduction. Dossier : Instituer la famille. Entre parenté et
     parentalité", *Revue des politiques sociales et familiales*,
     vol.139-140, pp.3-8. doi: 10.3917/rpsf.139.0003.
     [link](https://www.cairn.info/revue-des-politiques-sociales-et-familiales-2021-2-page-3.htm)
 
--   **Compans, M-C.**, 2021, "Is it too late to catch up? Comparing
+-   **Compans, MC.**, 2021, "Is it too late to catch up? Comparing
     female and male fertility changes", PopDigests (*Population
     Europe*).
     [link](https://www.population-europe.eu/research/popdigests/it-too-late-catch)
 
--   **Compans, M-C.**, 2021, "Le déclin de la fertilité : une charge
+-   **Compans, MC.**, 2021, "Le déclin de la fertilité : une charge
     inégalement partagée entre hommes et femmes", *The Conversation*.
     [link](https://theconversation.com/le-declin-de-la-fertilite-une-charge-inegalement-partagee-entre-hommes-et-femmes-163689)
 
