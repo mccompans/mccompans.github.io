@@ -19,8 +19,6 @@ knitr::opts_chunk$set(echo = FALSE)
 - **Compans, MC.**, Beaujouan, E., Trimarchi, A., The role of the partner age gap on first births by age at union
 formation (cross-regional perspective) 
 
--   Setz, I., **Compans, MC.**, Beaujouan, E., 2023, Spatial and temporal variation of late fertility across European regions. [short abstract](https://epc2024.eaps.nl/abstracts/241306)
-
 -   **Compans, MC.**, Lazzari, E. and Beaujouan, E., 2023, Perceptions of Medically Assisted Reproduction and Women’s Fertility Choices
 
 -   Suero, C., **Compans, MC.**, Beaujouan, E., 2023, Delayed transitions to adulthood and the use of assisted reproduction by
@@ -29,6 +27,8 @@ formation (cross-regional perspective)
 
 
 # Peer-reviewed publications
+
+-   Setz, I., **Compans, MC.**, Beaujouan, E., 2025, The diffusion of late fertility across European regions (2006–2018), *Population Space and Place* (accepted)
 
 - **Compans, MC.**, 2024, "Alignment, anticipation, adaptation or lagging behind? Age-based regulations in assisted reproduction and late fertility", *Population and Development Review*, doi: https://doi.org/10.1111/padr.12658
 
@@ -65,6 +65,8 @@ formation (cross-regional perspective)
     [link](https://www.demographic-research.org/volumes/vol45/10/default.htm)
 
 # Other publications
+
+-   **Compans, MC.**, 2025, "Limites d'âge pour la prise en charge de l'assistance médicale à la procréation : quelles évolutions face à l'augmentation des naissances tardives ?", in *Enfanter. Natalité, démographie et politiques publiques*, Senik, C. (ed.), La Découverte - Fondation pour les sciences sociales p.55-69. [link](https://www.editionsladecouverte.fr/enfanter-9782348087493)
 
 -   **Compans, MC.** and Beaujouan, E., 2023, "Where do couples meet?",
     in *Families in Austria Partnerships, fertility intentions and
