@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Work in progress
 
-- **Compans MC.** and Väisänen, H., Social patterns of miscarriage reporting and risk: Insights from survey data in France [preprint](https://osf.io/preprints/socarxiv/7psr6_v1)
+- **Compans, MC.** and Väisänen, H., Social patterns of miscarriage reporting and risk: Insights from survey data in France [preprint](https://osf.io/preprints/socarxiv/7psr6_v1)
 
 - **Compans, MC.**, Beaujouan, E., Trimarchi, A., The role of the partner age gap on first births by age at union
 formation (cross-regional perspective) 
@@ -97,8 +97,8 @@ formation (cross-regional perspective)
     [link](https://www.cairn.info/revue-des-politiques-sociales-et-familiales-2021-2-page-3.htm)
 
 -   **Compans, MC.**, 2021, "Is it too late to catch up? Comparing
-    female and male fertility changes", PopDigests (*Population
-    Europe*).
+    female and male fertility changes", PopDigests, *Population
+    Europe*.
     [link](https://www.population-europe.eu/research/popdigests/it-too-late-catch)
 
 -   **Compans, MC.**, 2021, "Le déclin de la fertilité : une charge
