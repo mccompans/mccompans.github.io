@@ -29,9 +29,9 @@ formation (cross-regional perspective)
 # Peer-reviewed publications
 
 - Suero, C., **Compans, MC.**, Beaujouan, E., Delayed Transitions to Adulthood and Assisted Reproduction :
-A Study of Educational Differences in Spain, *Advances in life course research* (accepted)
+A Study of Educational Differences in Spain, *Advances in life course research*, doi: https://doi.org/10.1016/j.alcr.2025.100672
 
--   Setz, I., **Compans, MC.**, Beaujouan, E., 2025, The diffusion of late fertility across European regions (2006–2018), *Population Space and Place* (accepted)
+-   Setz, I., **Compans, MC.**, Beaujouan, E., 2025, The diffusion of late fertility across European regions (2006–2018), *Population, Space and Place* (accepted)
 
 -   **Compans, MC.** and Zagel H., 2025, "Medically assisted reproduction and non-normative family forms: legislation and public opinion in Europe". 
 *European Societies*. doi: https://doi.org/10.1162/euso_a_00003
@@ -40,32 +40,27 @@ A Study of Educational Differences in Spain, *Advances in life course research* 
 
 -   Lazzari, E., **Compans, MC**. and Beaujouan, E., 2024, "Change in
     the perceived reproductive age window and delayed fertility in
-    Europe", *Population Studies*. doi: 0.1080/00324728.2023.2298678.
-    [link](https://www.tandfonline.com/doi/epdf/10.1080/00324728.2023.2298678?needAccess=true)
+    Europe", *Population Studies*. doi: https://doi.org/10.1080/00324728.2023.229867
     
 -   **Compans, MC.**, Beaujouan, E. and Suero C., 2023, "Transitions to
     second birth and birth intervals in France and Spain: time squeeze
     or social norms?", *Comparative Population Studies*, vol.48,
-    pp.307-338. doi: 10.12765/CPoS-202.
-    [link](https://www.comparativepopulationstudies.de/index.php/CPoS/article/view/524/382)
+    pp.307-338. doi: https://doi.org/10.12765/CPoS-2023-13
 
 -   **Compans, MC.** and Beaujouan, E., 2022, "From Union Formation to
     First Birth: The Role of Age at First Cohabitation in the Transition
     to Motherhood and Fatherhood", *Population*, vol.77 (3), pp.411-436.
-    doi :10.3917/popu.2203.0439.
-    [link](https://www.cairn-int.info/journal-population-2022-3-page-411.htm)
+    doi: https://doi.org/10.3917/popu.2203.043
 
 -   **Compans, MC.**, 2021, "D'un 'problème de santé publique' à un
     'phénomène de société'. Le traitement médiatique des maternités et
     des paternités tardives en France (2001--2019)", *Enfances,
-    Familles, Générations*, doi: 10.7202/1090938ar.
-    [link](https://www.erudit.org/fr/revues/efg/2022-n39-efg07149/1090938ar/)
+    Familles, Générations*, doi: https://doi.org/10.7202/1090938ar
 
 -   **Compans, MC.**, 2021, "Late motherhood, late fatherhood and
     permanent childlessness in France: Trends by educational level and
     cohorts (1950-1970)", *Demographic Research*, vol.45 (10),
-    pp.329-344. doi: 10.4054/DemRes.2021.45.10.
-    [link](https://www.demographic-research.org/volumes/vol45/10/default.htm)
+    pp.329-344. doi: https://doi.org/10.4054/DemRes.2021.45.10
 
 # Other publications
 
@@ -96,8 +91,7 @@ A Study of Educational Differences in Spain, *Advances in life course research* 
 -   Chatot, M., **Compans, MC.**, Quennehen M., Yadan, Z., 2021,
     "Introduction. Dossier : Instituer la famille. Entre parenté et
     parentalité", *Revue des politiques sociales et familiales*,
-    vol.139-140, pp.3-8. doi: 10.3917/rpsf.139.0003.
-    [link](https://www.cairn.info/revue-des-politiques-sociales-et-familiales-2021-2-page-3.htm)
+    vol.139-140, pp.3-8. doi: https://doi.org/10.3917/rpsf.139.0003
 
 -   **Compans, MC.**, 2021, "Is it too late to catch up? Comparing
     female and male fertility changes", PopDigests, *Population
