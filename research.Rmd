@@ -14,9 +14,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Work in progress
 
-- **Compans, MC.** and Väisänen, H., Social patterns of miscarriage reporting and risk: Insights from survey data in France [preprint](https://osf.io/preprints/socarxiv/7psr6_v1)
+- **Compans, MC.** and Väisänen, H., 2025, Social patterns of miscarriage reporting and risk: Insights from survey data in France [preprint](https://osf.io/preprints/socarxiv/7psr6_v1)
 
-- **Compans, MC.**, Beaujouan, E., Trimarchi, A., The role of the partner age gap on first births by age at union
+- **Compans, MC.**, Beaujouan, E., Trimarchi, A., 2025, The role of the partner age gap on first births by age at union
 formation (cross-regional perspective) 
 
 -   **Compans, MC.**, Lazzari, E. and Beaujouan, E., 2023, Perceptions of Medically Assisted Reproduction and Women’s Fertility Choices
@@ -26,7 +26,7 @@ formation (cross-regional perspective)
 
 -   Setz, I., **Compans, MC.**, Beaujouan, E., 2025, The diffusion of late fertility across European regions (2006–2018), *Population, Space and Place* (accepted)
 
-- Suero, C., **Compans, MC.**, Beaujouan, E., Delayed Transitions to Adulthood and Assisted Reproduction :
+- Suero, C., **Compans, MC.**, Beaujouan, E., 2025, Delayed Transitions to Adulthood and Assisted Reproduction :
 A Study of Educational Differences in Spain, *Advances in life course research*, doi: https://doi.org/10.1016/j.alcr.2025.100672
 
 -   **Compans, MC.** and Zagel H., 2025, "Medically assisted reproduction and non-normative family forms: legislation and public opinion in Europe". 
@@ -56,7 +56,7 @@ A Study of Educational Differences in Spain, *Advances in life course research*,
 -   **Compans, MC.**, 2021, "Late motherhood, late fatherhood and
     permanent childlessness in France: Trends by educational level and
     cohorts (1950-1970)", *Demographic Research*, vol.45 (10),
-    pp.329-344. https://doi.org/10.4054/DemRes.2021.45.10
+    pp.329-344, https://doi.org/10.4054/DemRes.2021.45.10
 
 # Other publications
 
