@@ -1,7 +1,7 @@
 ---
 title: "Research"
 description: |
-  Research topics: fertility, birth postponement, family change, assisted reproduction, miscarriages
+  Research topics: fertility, birth postponement, family change, assisted reproduction, miscarriage
 output: distill::distill_article
 editor_options: 
   markdown: 
@@ -24,7 +24,7 @@ formation (cross-regional perspective)
 
 # Peer-reviewed publications
 
--   Setz, I., **Compans, MC.**, Beaujouan, E., 2025, The diffusion of late fertility across European regions (2006–2018), *Population, Space and Place* (accepted)
+-   Setz, I., **Compans, MC.**, Beaujouan, E., 2025, The diffusion of late fertility across European regions (2006–2018), *Population, Space and Place*, vol.31 (4), pp. e70031, http://dx.doi.org/10.1002/psp.70031
 
 - Suero, C., **Compans, MC.**, Beaujouan, E., 2025, Delayed Transitions to Adulthood and Assisted Reproduction :
 A Study of Educational Differences in Spain, *Advances in life course research*, doi: https://doi.org/10.1016/j.alcr.2025.100672
@@ -32,11 +32,11 @@ A Study of Educational Differences in Spain, *Advances in life course research*,
 -   **Compans, MC.** and Zagel H., 2025, "Medically assisted reproduction and non-normative family forms: legislation and public opinion in Europe". 
 *European Societies*, https://doi.org/10.1162/euso_a_00003
 
-- **Compans, MC.**, 2024, "Alignment, anticipation, adaptation or lagging behind? Age-based regulations in assisted reproduction and late fertility", *Population and Development Review*, https://doi.org/10.1111/padr.12658
+- **Compans, MC.**, 2024, "Alignment, anticipation, adaptation or lagging behind? Age-based regulations in assisted reproduction and late fertility", *Population and Development Review*, vol.50 (4), pp.1319-1351, https://doi.org/10.1111/padr.12658
 
 -   Lazzari, E., **Compans, MC**. and Beaujouan, E., 2024, "Change in
     the perceived reproductive age window and delayed fertility in
-    Europe", *Population Studies*, https://doi.org/10.1080/00324728.2023.229867
+    Europe", *Population Studies*,vol.79 (1), pp. 81-101, https://doi.org/10.1080/00324728.2023.2298678
     
 -   **Compans, MC.**, Beaujouan, E. and Suero C., 2023, "Transitions to
     second birth and birth intervals in France and Spain: time squeeze
