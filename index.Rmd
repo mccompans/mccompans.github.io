@@ -8,6 +8,8 @@ links:
     url: "https://www.linkedin.com/in/marie-caroline-compans-565415123/?originalSubdomain=fr"
   - label: Github 
     url: "https://github.com/mccompans"
+  - label: Bluesky
+    url: "https://bsky.app/profile/mccompans.bsky.social"
 output:
   postcards::trestles
 site: distill::distill_website
@@ -15,7 +17,7 @@ site: distill::distill_website
 
 #### Welcome!
 
-I'm a postdoctoral researcher at the French National Institute for Demographic Studies (Ined) within the [SOC-MISC project](https://soc-misc.site.ined.fr/). I work on miscarriages, assisted reproduction, infertility and (late) fertility. I am also associated with the Department of Demography of the University of Vienna, where I participated in the [BIC.Late project](https://biclate.univie.ac.at/).
+I'm a postdoctoral researcher at the French National Institute for Demographic Studies (Ined) within the [SOC-MISC project](https://soc-misc.site.ined.fr/). I work on miscarriage, assisted reproduction, infertility and (late) fertility. I am also associated with the Department of Demography of the University of Vienna, where I participated in the [BIC.Late project](https://biclate.univie.ac.at/).
 
 ## Research experience
 
