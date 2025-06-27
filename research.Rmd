@@ -14,7 +14,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Work in progress
 
-- **Compans, MC.** and Väisänen, H., 2025, Social patterns of miscarriage reporting and risk: Insights from survey data in France [preprint](https://osf.io/preprints/socarxiv/7psr6_v1)
+
+- **Compans, MC.**, Malmanche, H., Väisänen, H., 2025, Hospital-care seeking in the event of miscarriage: Insights from French health records    
 
 - **Compans, MC.**, Beaujouan, E., Trimarchi, A., 2025, The role of the partner age gap on first births by age at union
 formation (cross-regional perspective) 
@@ -24,7 +25,9 @@ formation (cross-regional perspective)
 
 # Peer-reviewed publications
 
--   Setz, I., **Compans, MC.**, Beaujouan, E., 2025, The diffusion of late fertility across European regions (2006–2018), *Population, Space and Place*, vol.31 (4), pp. e70031, http://dx.doi.org/10.1002/psp.70031
+- **Compans, MC.** and Väisänen, H., 2025, Social patterns of miscarriage reporting and risk: Insights from survey data in France, *European Journal of Public Health*, ckaf099, http://doi:10.1093/eurpub/ckaf099
+
+-   Setz, I., **Compans, MC.**, Beaujouan, E., 2025, The diffusion of late fertility across European regions (2006–2018), *Population, Space and Place*, vol.31 (4), e70031, http://dx.doi.org/10.1002/psp.70031
 
 - Suero, C., **Compans, MC.**, Beaujouan, E., 2025, Delayed Transitions to Adulthood and Assisted Reproduction :
 A Study of Educational Differences in Spain, *Advances in life course research*, doi: https://doi.org/10.1016/j.alcr.2025.100672
