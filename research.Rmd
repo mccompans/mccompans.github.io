@@ -14,7 +14,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Work in progress
 
-
 - **Compans, MC.**, Malmanche, H., Väisänen, H., 2025, Hospital-care seeking in the event of miscarriage: Insights from French health records    
 
 - **Compans, MC.**, Beaujouan, E., Trimarchi, A., 2025, The role of the partner age gap on first births by age at union
@@ -24,6 +23,8 @@ formation (cross-regional perspective)
 
 
 # Peer-reviewed publications
+
+- **Compans, MC.**, Beaujouan, E., Skirbekk, V., 2025, Time to birth for spontaneous and ART births among infertile groups, *BMC Women's Health*, vol 25 (521), doi: https://doi.org/10.1186/s12905-025-04016-3
 
 - **Compans, MC.** and Väisänen, H., 2025, Social patterns of miscarriage reporting and risk: Insights from survey data in France, *European Journal of Public Health*, ckaf099, http://doi:10.1093/eurpub/ckaf099
 
