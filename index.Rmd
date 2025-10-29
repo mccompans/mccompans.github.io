@@ -1,5 +1,5 @@
 ---
-title: "Marie-Caroline Compans"
+title: "MC Compans"
 image: "mc.JPG"
 links:
   - label:  Email
