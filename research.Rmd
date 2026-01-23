@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Work in progress
 
-- Köskal, s., **Compans, MC.**, Väisänen, H., 2025, Miscarriage reporting in the UK in longitudinal and cross-sectional household surveys
+- Köskal, S., **Compans, MC.**, Väisänen, H., 2025, Miscarriage reporting in the UK in longitudinal and cross-sectional household surveys
 
 - **Compans, MC.**, Malmanche, H., Väisänen, H., 2025, Hospital-care seeking in the event of miscarriage: Insights from French health records    
 
