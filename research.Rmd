@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Peer-reviewed publications
 
-- **Compans, MC.**, Beaujouan, E., Trimarchi, A., 2025, Partners’ age differences and transitions to first birth by age at first and second union in Europe, *Vienna Yearbook of Population Research* (accepted)
+- **Compans, MC.**, Beaujouan, E., Trimarchi, A., 2026, Partners’ age differences and transitions to first birth by age at first and second union in Europe, *Vienna Yearbook of Population Research* (accepted)
 
 -   **Compans, MC.**, Lazzari, E. and Beaujouan, E., 2026, Perceptions of Medically Assisted Reproduction and Fertility Postponement: Limited Evidence, Critical Questions, *European Journal of Population*, in press
 
