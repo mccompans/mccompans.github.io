@@ -14,15 +14,16 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Work in progress
 
+- Köskal, s., **Compans, MC.**, Väisänen, H., 2025, Miscarriage reporting in the UK in longitudinal and cross-sectional household surveys
+
 - **Compans, MC.**, Malmanche, H., Väisänen, H., 2025, Hospital-care seeking in the event of miscarriage: Insights from French health records    
-
-- **Compans, MC.**, Beaujouan, E., Trimarchi, A., 2025, The role of the partner age gap on first births by age at union
-formation (cross-regional perspective) 
-
--   **Compans, MC.**, Lazzari, E. and Beaujouan, E., 2023, Perceptions of Medically Assisted Reproduction and Women’s Fertility Choices
 
 
 # Peer-reviewed publications
+
+- **Compans, MC.**, Beaujouan, E., Trimarchi, A., 2025, Partners’ age differences and transitions to first birth by age at first and second union in Europe, *Vienna Yearbook of Population Research* (accepted)
+
+-   **Compans, MC.**, Lazzari, E. and Beaujouan, E., 2026, Perceptions of Medically Assisted Reproduction and Fertility Postponement: Limited Evidence, Critical Questions, *European Journal of Population*, in press
 
 - **Compans, MC.**, Beaujouan, E., Skirbekk, V., 2025, Time to birth for spontaneous and ART births among infertile groups, *BMC Women's Health*, vol 25 (521), doi: https://doi.org/10.1186/s12905-025-04016-3
 

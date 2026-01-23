@@ -3,9 +3,9 @@ title: "MC Compans"
 image: "mc.JPG"
 links:
   - label:  Email
-    url: "mailto:marie-caroline.compans@univie.ac.at"
+    url: "mailto:marie-caroline.compans@ined.fr"
   - label: LinkedIn
-    url: "https://www.linkedin.com/in/marie-caroline-compans-565415123/?originalSubdomain=fr"
+    url: "https://www.linkedin.com/in/mc-compans-565415123/"
   - label: Github 
     url: "https://github.com/mccompans"
   - label: Bluesky
