@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - **Compans, MC.**, Malmanche, H., Väisänen, H., 2026, Clinical and sociodemographic determinants of miscarriage hospitalisation: Evidence from French healthcare records, https://doi.org/10.31235/osf.io/ud76b_v1
     
-
+- **Compans, MC.**, Malmanche, H., Väisänen, H., 2026, Social  and  health  risk  factors for miscarriage:  a  population-based  study using French healthcarerecords, https://doi.org/10.31235/osf.io/y3rz7_v1
 
 # Peer-reviewed publications
 
@@ -65,6 +65,14 @@ A Study of Educational Differences in Spain, *Advances in life course research*,
     pp.329-344, https://doi.org/10.4054/DemRes.2021.45.10
 
 # Other publications
+
+-  **Compans, MC.**, 2026, "Naissances hors couple : plus tôt et plus souvent chez les moins diplômé·es", in *L’Étude des relations familiales et
+intergénérationnelles 2. Erfi 2, vague 1 (2024)*, Bouchet-Valat, M. \& Toulemon, L. (ed.), Aubervilliers : Institut national d'études
+démographiques, p.42-43, doi: 10.48756/ined-1res-2.26. https://erfi2.site.ined.fr/fr/resultats/publications
+
+-  **Compans, MC.** and Beaujouan, E., 2026, "Assistance médicale à la procréation : des familles plus petites et plus tardives", in *L’Étude des relations familiales et
+intergénérationnelles 2. Erfi 2, vague 1 (2024)*, Bouchet-Valat, M. \& Toulemon, L. (ed.), Aubervilliers : Institut national d'études
+démographiques, p.34-35, doi: 10.48756/ined-1res-2.26. https://erfi2.site.ined.fr/fr/resultats/publications
 
 -   **Compans, MC.**, 2025, "Limites d'âge pour la prise en charge de l'assistance médicale à la procréation : quelles évolutions face à l'augmentation des naissances tardives ?", in *Enfanter. Natalité, démographie et politiques publiques*, Senik, C. (ed.), La Découverte - Fondation pour les sciences sociales p.55-69. [link](https://www.editionsladecouverte.fr/enfanter-9782348087493)
 
