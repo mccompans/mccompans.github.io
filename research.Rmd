@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Peer-reviewed publications
 
--   **Compans, MC.**, Lazzari, E. and Beaujouan, E., 2026, Perceptions of Medically Assisted Reproduction and Fertility Postponement: Limited Evidence, Critical Questions, *European Journal of Population*, in press
+-   **Compans, MC.**, Lazzari, E. and Beaujouan, E., 2026, Perceptions of Medically Assisted Reproduction and Fertility Postponement: Limited Evidence, Critical Questions, *European Journal of Population*, vol 40 (20),  https://doi.org/10.1007/s10680-025-09765-3
 
 - **Compans, MC.**, Beaujouan, E., Trimarchi, A., 2026, Partners’ age differences and first birth transitions by age at first and second union in Europe, *Vienna Yearbook of Population Research*, vol 24, pp. 1-26, https://doi.org/10.1553/p-nk6a-fj74
 
